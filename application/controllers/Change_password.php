@@ -33,4 +33,5 @@ class Change_password extends CI_Controller
             $this->load->view('layout/user/footer');
         }
     }
+    
 }

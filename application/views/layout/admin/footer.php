@@ -92,7 +92,7 @@
          );
 
          var data = [{
-                 country: "Lithuania",
+                 country: "Indonesia",
                  litres: 501.9,
                  bottles: 1500
              },

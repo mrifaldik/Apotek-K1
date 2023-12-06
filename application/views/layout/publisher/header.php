@@ -666,7 +666,7 @@
             <!-- BEGIN: Logo -->
             <a href="" class="-intro-x hidden md:flex">
                 <img alt="Midone - HTML Admin Template" class="w-6" src="<?= site_url('asset') ?>/admin/dist/images/logo.svg">
-                <span class="text-white text-lg ml-3"> Shoppify </span>
+                <span class="text-white text-lg ml-3"> Apotek K1 </span>
             </a>
             <!-- END: Logo -->
             <!-- BEGIN: Breadcrumb -->
