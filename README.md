@@ -6,9 +6,11 @@
 
 <p align='center'>Projek ini dibuat untuk memenuhi tugas Web Programming II .</p>
 
-<br>
-<br>
-<h2 align='center'>Terima Kasih:sunglasses:</h2>
+
+<h2 align='center'>Terima Kasih😎:</h2>
 
 
-© MUHAMAD RIFALDI KURNIAWAN - 12220489
+<br>© AGUNG PUJIANTO             - 12221414<br>
+<br>© RENALD SAPUTRA P.N         - 12221200<br>
+<br>© MUHAMAD RIFALDI KURNIAWAN  - 12220489<br>
+<br>© NINDYTA AYU AURILIA        - 12221216<br>
